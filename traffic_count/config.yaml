@@ -1,0 +1,8 @@
+app_name: "traffic_app"
+tasks:
+  - task_name: "monitor_traffic_task"
+    main_dir: "."
+    main_file: "traffic_app.py"
+    task_count: 2
+    cpu_quota: 1000
+    fpga: 1

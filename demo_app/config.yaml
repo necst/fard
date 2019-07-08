@@ -1,0 +1,14 @@
+app_name: "fard_demo_app"
+tasks:
+  # - task_name: "Demo_task"
+  #   main_dir: "."
+  #   main_file: "demo_app.py"
+  #   task_count: 2
+  #   cpu_quota: 1000
+  #   fpga: 1
+  - task_name: "Demo_task_w_task_comm"
+    main_dir: "."
+    main_file: "demo_app_w_task_comm.py"
+    task_count: 2
+    cpu_quota: 1000
+    fpga: 0

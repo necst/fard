@@ -1,0 +1,8 @@
+#set resources (e.g. total millicpus and total fpgas available per node)
+resources:
+  cpu: 2000
+  fpga: 1
+#set runtime for task launch
+runtime: "python3.6"
+#set if tasks stdout should be logged onto the node manager
+app_log_std_out: False

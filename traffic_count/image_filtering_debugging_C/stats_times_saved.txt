@@ -1,0 +1,10 @@
+Original data in milliseconds:
+
+          lines:  1000
+           mean:  5.712129000000
+       variance:  0.425853367727
+        std dev:  0.652574415471
+std err of mean:  0.020636214956
+            sum:  5712.129000000003
+            min:  4.877000000000
+            max:  9.040000000000
