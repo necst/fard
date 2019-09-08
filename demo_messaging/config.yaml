@@ -1,0 +1,16 @@
+app_name: "fard_demo_app"
+tasks:
+  - task_name: "Demo_task"
+    main_dir: "."
+    main_file: "perf_app_broadcast.py"
+    #main_file: "perf_app_unicast.py"
+    #main_file: "perf_app_multicast.py"
+    task_count: 1
+    cpu_quota: 1000
+    fpga: 1
+  - task_name: "Demo_task_1"
+    main_dir: "."
+    main_file: "perf_app_receive.py"
+    task_count: 2
+    cpu_quota: 1000
+    fpga: 1
