@@ -49,6 +49,8 @@ From now on you can decide either to run the demo from terminal or from Jupyter.
 
 ## Publications
 
-More details on the FARD fog distributed system can be found at "S. Barbieri, F. Casasopra, R. Brondolin, and M. D. Santambrogio, “Fog Acceleration Through Reconfigurable Devices,” in Research and Technologies for Society and Industry (RTSI), 2019 IEEE 5th International Forum on. IEEE, 2019, pp. 138–143."
+- More details on the counting cars application can be found at "S. Barbieri, F. Casasopra, R. Brondolin, and M. D. Santambrogio, “Fog Acceleration Through Reconfigurable Devices,” in Research and Technologies for Society and Industry (RTSI), 2019 IEEE 5th International Forum on. IEEE, 2019, pp. 138–143."
 
-If you use the distributed system and/or the counting cars application, we ask that you please cite the paper above.
+- More details on the FARD distributed system can be found at "S. Barbieri, F. Casasopra, R. Brondolin, and M. D. Santambrogio, “FARD: Accelerating Distributed Fog Computing Workloads through Embedded FPGAs,” in EWiLi 2019"
+
+If you use the distributed system and/or the counting cars application, we ask that you please cite the papers above.
